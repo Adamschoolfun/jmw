@@ -17,8 +17,8 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         const style = iframe.style
         const link = doc.createElement("link")
 
-        const name = localStorage.getItem("name") || "Home";
-        const icon = localStorage.getItem("icon") || "https://ssl.gstatic.com/classroom/favicon.png";
+        const name = localStorage.getItem("name") || "Home | Schoology";
+        const icon = localStorage.getItem("icon") || "https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico";
 
         doc.title = name;
         link.rel = "icon";
