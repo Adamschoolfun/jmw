@@ -32,6 +32,6 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
 
         doc.head.appendChild(link);
         doc.body.appendChild(iframe)
-        location.replace("https://www.google.com/search?q=math+help&rlz=1CAXXPU_enUS1087&oq=math+help&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIPCAEQABgKGIMBGLEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgkIBRAAGAoYgAQyBwgGEAAYgAQyBggHEEUYQdIBCDIyMjhqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on")
+        location.replace("https://arlingtondiocese.schoology.com/home#/?_k=v7nzj1")
     }
 }
