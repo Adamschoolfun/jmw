@@ -23,11 +23,11 @@
 - <a href="//github.com/titaniumnetwork-dev/Alloy">Titanium Network - proxy we use for apps</a>
 - <a href="//github.com/GalacticNetwork">Galactic Network - for making this amazing website.</a>
 # Deployment
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/jordansmathwork-v5"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://replit.com/github/GalacticNetwork/jordansmathwork-v5"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/GalacticNetwork/jordansmathwork-v5"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
-<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/GalacticNetwork/jordansmathwork-v5"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
-<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/GalacticNetwork/jordansmathwork-v5"><img alt="Deploy to Vercel" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/hatrix1307/y"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://replit.com/github/hatrix1307/y"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/hatrix1307/y"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/hatrix1307/y"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/hatrix1307/y"><img alt="Deploy to Vercel" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg"></a>
 ### contributers:
 <a target="_blank" href="https://github.com/GalacticNetwork/jordansmathwork-v4/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GalacticNetwork/jordansmathwork-v4" />
