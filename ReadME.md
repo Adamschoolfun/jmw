@@ -2,9 +2,9 @@
 <p align="center"><img src="https://github.com/GalacticNetwork/jordansmathwork-v5/blob/main/assets/images/jmw.png?raw=true" height="200">
 </p>
 
-<h1 align="center"><strong>JordansMathWork V5</strong></h1>
-<p align="center">The key to unblocked games.</p>
-<h1 align="center"><a align="center" href="//infinitetutoring.online">Live demo</a></h1>
+<h1 align="center"><strong>HeckersMathWork V5</strong></h1>
+<p align="center">A better version of Jordan's Math Work</p>
+<h1 align="center"><a align="center" href="https://h78.vercel.app">Live demo</a></h1>
 
 ### Features:
 - 300+ games
@@ -12,6 +12,7 @@
 - Clean UI
 - Blazing Fast proxy
 - chatbox
+- no redirect ads
 # Credits
 - <a href="//github.com/slqntdevss">Slqnt - themes function and css</a>
 - <a href="//github.com/albibos">Albinus - games and apps function</a>
@@ -20,6 +21,7 @@
 - <a href="//github.com/anthonyishimlolz">Clipped - CSS designer</a>
 - <a href="//github.com/binbashbanana">BinBashBanana -.swf game files</a>
 - <a href="//github.com/titaniumnetwork-dev/Alloy">Titanium Network - proxy we use for apps</a>
+- <a href="//github.com/GalacticNetwork">Galactic Network - for making this amazing website.</a>
 # Deployment
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/jordansmathwork-v5"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/GalacticNetwork/jordansmathwork-v5"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
