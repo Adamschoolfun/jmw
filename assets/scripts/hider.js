@@ -10,7 +10,7 @@ try {
 if (!inFrame && !navigator.userAgent.includes("Firefox")) {
     const popup = open("about:blank", "_blank")
     if (!popup || popup.closed) {
-        alert("History Hider failed to cloak this site, allow popups and reload.")
+        alert("ok just do pop ups and redirects, top right.")
     } else {
         const doc = popup.document
         const iframe = doc.createElement("iframe")
